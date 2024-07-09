@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uZolekaUmphathiWeCode
+- 👋 Hi, I’m @uZoleka24
 - 👀 I’m interested in CODING and when I'm not coding, I'm probably with my friends
 - 🌱 I’m currently learning about using Unix and Ubuntu.
 - 💞️ I’m looking to collaborate on any project!
